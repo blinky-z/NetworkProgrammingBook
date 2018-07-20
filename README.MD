@@ -50,6 +50,7 @@ int main() {
 **Parallelism** - означает то, что задачи работают буквально **одновременно** (для этого нужен многоядерный процессор, на одноядерном такое невозможно).
 
 Обе технологии на примере:
+
 ![concurrency and parallelism comparison](https://i.stack.imgur.com/V5sMZ.png "concurrency and parallelism comparison")
 
 ---
